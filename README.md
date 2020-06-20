@@ -1,7 +1,7 @@
 # DAAR Topology
 
 ### Version
-(Windows OS Version) 1.2 [June 2020]
+(Windows OS) 1.2 [June 2020]
 
 
 Copyright © 2020 DAAR Topology.
