@@ -32,7 +32,7 @@ If you use DAAR Topology in your research, the following bibtex entry can be use
 
 ```
 @misc{
-    author       = {D. Ali, A. Assad},
+    author       = {D. Ali, A. Asaad},
     title        = {{DAAR Topology: A software to build topological features from images.}},
     month        = Jun,
     year         = 2020,
